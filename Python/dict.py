@@ -1,0 +1,9 @@
+HtoE={"aam":"mango",
+      "seb":"apple",
+      "kela":"banana",
+      "santra":"orange"
+}
+HtoE.update({"fruits":"faal"})
+print(HtoE.keys())
+print(HtoE.get("seb"))
+print(HtoE)
